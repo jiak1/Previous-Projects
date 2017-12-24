@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language>
+<AreYouSureYouWantToQuit>Are Ye Sure Ya Wanna Quit?</AreYouSureYouWantToQuit>
+<Cancel>Escape Be The Plan</Cancel>
+<CancelConnection>Cancel Boarding</CancelConnection>
+<ConnectingToNetworkingServers>Connecting To Networking Servers</ConnectingToNetworkingServers>
+<CreateRoom>Create Ship</CreateRoom>
+<CrystalCastle>Crystal Castle</CrystalCastle>
+<EnterRoomName>Enter Ship Name...</EnterRoomName>
+<Farmers>Farmers</Farmers>
+<Fullscreen>Fullscreen</Fullscreen>
+<GraphicsQuality>Graphics Quality:</GraphicsQuality>
+<InviteUserToGame>Invite User To Game</InviteUserToGame>
+<JoinFarmers>Join Farmers</JoinFarmers>
+<JoinRoom>Join Ship</JoinRoom>
+<JoinSheep>Join Sheep</JoinSheep>
+<LeaveRoom>Leave Ship</LeaveRoom>
+<Loading>Sailing...</Loading>
+<Map>Map:</Map>
+<News>Daily Report</News>
+<No>Nah</No>
+<NotReady>Not Ready</NotReady>
+<OnlyShowFriendsRooms>Only Show Friends Rooms</OnlyShowFriendsRooms>
+<Options>Riggings</Options>
+<Play>Enter The Hull</Play>
+<Profile>Ye Good Ol' Looks</Profile>
+<Quit>Abandon Ship</Quit>
+<Refresh>Refresh</Refresh>
+<Resolution>Resolution:</Resolution>
+<SearchFilters>Search Filters:</SearchFilters>
+<SelectMode>Select Mode</SelectMode>
+<Send>Send</Send>
+<SendConsoleLogToSupportTeam>Send Console Log To Support Team</SendConsoleLogToSupportTeam>
+<SendToFarmageddonSupportTeam>Send To Farmageddon Support Team</SendToFarmageddonSupportTeam>
+<SendUserMessageToJoinYou>Send User Message To Join You</SendUserMessageToJoinYou>
+<Sheep>Sheep</Sheep>
+<ShowOnlyFullRooms>Show Only Full Rooms</ShowOnlyFullRooms>
+<Simple>Simple</Simple>
+<SupportLogDetails>Support Log Details</SupportLogDetails>
+<Tutorial>Training</Tutorial>
+<WeHaveDetectedARecentGameCrashCouldYouPleaseFillOutTheseDetailsBelow>We Have Detected A Recent Game Crash Could You Please Fill Out These Details Below</WeHaveDetectedARecentGameCrashCouldYouPleaseFillOutTheseDetailsBelow>
+<Yes>I I!</Yes>
+</language>
