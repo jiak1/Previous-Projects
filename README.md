@@ -24,6 +24,6 @@ If you think one of the translation is missing pieces or has mistakes or just wa
 
 To translate just change the text in between the > & < arrow to the appropriate version in the language file you are editing for example:
 To change 'Yes' To 'I I!' we would edit the line:
-    <Yes>Yes</Yes>
-    To:
-    <Yes>I I!</Yes>
+<Yes>Yes</Yes>
+To:
+<Yes>I I!</Yes>
