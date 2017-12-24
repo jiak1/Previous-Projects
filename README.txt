@@ -27,3 +27,4 @@ To change 'Yes' To 'I I!' we would edit the line:
 <Yes>Yes</Yes>
 To:
 <Yes>I I!</Yes>
+This would replace in game the word Yes with I I!
