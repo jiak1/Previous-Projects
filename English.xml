@@ -44,4 +44,7 @@
     <Language>Language</Language>
     <MusicVolume>Music Volume</MusicVolume>
     <SubmitKey>Submit Key</SubmitKey>
+    <Retry>Retry</Retry>
+    <CloseGame>Close Game</CloseGame>
+    <Options:>Options:</Options>
   </language>
