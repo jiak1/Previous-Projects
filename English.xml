@@ -47,4 +47,6 @@
     <Retry>Retry</Retry>
     <CloseGame>Close Game</CloseGame>
     <OptionsColon>Options:</OptionsColon>
+    <MainMenu>Main Menu</MainMenu>
+    <ResumeGame>Resume Game</ResumeGame>
   </language>
